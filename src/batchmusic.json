@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Ed Sheeran"},
+                  "SongTitle": {"S": "Dive"},
+                  "AlbumTitle": {"S": "Divide"},
+                  "SongYear": {"S": "2017"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Ed Sheeran"},
+                  "SongTitle": {"S": "How Would You Feel"},
+                  "AlbumTitle": {"S": "Divide"},
+                  "SongYear": {"S": "2017"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Ed Sheeran"},
+                  "SongTitle": {"S": "Tenerife Sea"},
+                  "AlbumTitle": {"S": "Multiply"},
+                  "SongYear": {"S": "2014"}
                 }
             }
         }
