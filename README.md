@@ -1,5 +1,5 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# dio-boaspraticas-dynamodb
+Repositório criado para acompanhar o desafio de projeto da DIO, "Boas Práticas com DynamoDB", criando uma tabela com Músicas, e itens correspondentes ao artista, nome da música, álbum, e ano de lançamento. Neste repositório ficarão armazenados os jsons que adaptei para o desafio, e um README com as instruções do instrutor.
 
 ### Serviço utilizado
   - Amazon DynamoDB
@@ -81,7 +81,7 @@ aws dynamodb update-table \
 aws dynamodb query \
     --table-name Music \
     --key-condition-expression "Artist = :artist" \
-    --expression-attribute-values  '{":artist":{"S":"Iron Maiden"}}'
+    --expression-attribute-values  '{":artist":{"S":"Ed Sheeran"}}'
 ```
 - Pesquisar item por artista e título da música
 
