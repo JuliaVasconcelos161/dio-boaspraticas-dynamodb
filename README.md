@@ -1,5 +1,5 @@
 # dio-boaspraticas-dynamodb
-Repositório criado para acompanhar o desafio de projeto da DIO, "Boas Práticas com DynamoDB", criando uma tabela com Músicas, e itens correspondentes ao artista, nome da música, álbum, e ano de lançamento. Neste repositório ficarão armazenados os jsons que adaptei para o desafio, e um README com as instruções do instrutor.
+Repositório criado para acompanhar o desafio de projeto da DIO, "Boas Práticas com DynamoDB", criando uma tabela com músicas, e itens que contêm o artista, o nome da música, o álbum, e o ano de lançamento. Neste repositório ficarão armazenados os JSONs que foram adaptados para o desafio, e um README com as instruções do instrutor.
 
 ### Serviço utilizado
   - Amazon DynamoDB
